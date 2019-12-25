@@ -23,3 +23,6 @@ rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
 i-mobile.co.jp, 35686, DIRECT
 i-mobile.co.jp, 69343, DIRECT
 google.com, pub-2067800044730756, RESELLER, f08c47fec0942fa0
+# aps
+aps.amazon.com,de3bf4a7-cab0-430c-b2f7-e1eb4be59b7d,DIRECT
+smaato.com,1100044650,RESELLER,07bcf65f187117b4
