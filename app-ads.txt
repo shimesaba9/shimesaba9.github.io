@@ -1,4 +1,6 @@
 google.com, pub-1284091383749397, DIRECT, f088c47fec942fa0
+# Facebook
+facebook.com, 272188614729819, DIRECT, c3e20eee3f780d68
 # Adg
 ad-generation.jp, 12539, DIRECT, 7f4ea9029ac04e53
 openx.com, 537147391, RESELLER, 6a698e2ec38604c6
