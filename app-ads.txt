@@ -6,6 +6,7 @@ ad-generation.jp, 12539, DIRECT, 7f4ea9029ac04e53
 openx.com, 537147391, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 16788, RESELLER, 0bfd66d529a55807
 # fluct
+adingo.jp, 24961, RESELLER
 adingo.jp, 24961, DIRECT
 adingo.jp, 23270, DIRECT
 pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
