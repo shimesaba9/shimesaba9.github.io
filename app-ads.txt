@@ -90,3 +90,4 @@ vungle.com,A9_UAM,RESELLER
 fivecdm.com,29099063,DIRECT
 # Pangle
 pangleglobal.com, 53650, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
